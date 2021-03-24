@@ -1,0 +1,23 @@
+RewriteEngine On
+
+RewriteRule ^admin admin.php [NC,L]
+
+RewriteRule ^login login.php [NC,L]
+
+RewriteRule ^about about.php [NC,L]
+
+RewriteRule ^logout logout.php [NC,L]
+
+RewriteRule ^addjob addjob.php [NC,L]
+
+RewriteRule ^approved approved.php [NC,L]
+
+RewriteRule ^work work.php [NC,L]
+
+RewriteRule ^education education.php [NC,L]
+
+RewriteRule ^myjobs myjobs.php [NC,L]
+
+RewriteRule ^jobs jobs.php [NC,L]
+
+RewriteRule ^signup signup.php [NC,L]
