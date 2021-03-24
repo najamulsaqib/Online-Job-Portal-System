@@ -1,4 +1,4 @@
-# Online-Job-Portal-System
-* Jobies.Pk
+# Jobies.Pk
+- Online-Job-Portal-System
 
 Using Html, Css & MySQL
